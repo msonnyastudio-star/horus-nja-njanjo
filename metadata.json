@@ -1,0 +1,9 @@
+{
+  "site_name": "Horus Nja Njanjo — Site officiel",
+  "slug": "horus-nja-njanjo",
+  "live_url": "https://horus-nja-njanjo.msonnyastudio.chatgpt.site",
+  "status": "active",
+  "source_version_number": 2,
+  "projection_revision": 4,
+  "export_note": "Export/reconstruction statique à partir du contenu du Site ChatGPT accessible et des visuels Horus retrouvés dans la bibliothèque. Le code interne original du générateur de Site n'est pas exposé dans l'export."
+}
